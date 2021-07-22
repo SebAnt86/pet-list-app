@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/pet-list-app/static/css/main.f93053d4.chunk.css",
-    "main.js": "/pet-list-app/static/js/main.0c73ee9d.chunk.js",
-    "main.js.map": "/pet-list-app/static/js/main.0c73ee9d.chunk.js.map",
+    "main.css": "/pet-list-app/static/css/main.500ee7eb.chunk.css",
+    "main.js": "/pet-list-app/static/js/main.f74fff3e.chunk.js",
+    "main.js.map": "/pet-list-app/static/js/main.f74fff3e.chunk.js.map",
     "runtime-main.js": "/pet-list-app/static/js/runtime-main.0b018c10.js",
     "runtime-main.js.map": "/pet-list-app/static/js/runtime-main.0b018c10.js.map",
     "static/css/2.4be38407.chunk.css": "/pet-list-app/static/css/2.4be38407.chunk.css",
-    "static/js/2.4e111309.chunk.js": "/pet-list-app/static/js/2.4e111309.chunk.js",
-    "static/js/2.4e111309.chunk.js.map": "/pet-list-app/static/js/2.4e111309.chunk.js.map",
+    "static/js/2.49921775.chunk.js": "/pet-list-app/static/js/2.49921775.chunk.js",
+    "static/js/2.49921775.chunk.js.map": "/pet-list-app/static/js/2.49921775.chunk.js.map",
     "index.html": "/pet-list-app/index.html",
     "static/css/2.4be38407.chunk.css.map": "/pet-list-app/static/css/2.4be38407.chunk.css.map",
-    "static/css/main.f93053d4.chunk.css.map": "/pet-list-app/static/css/main.f93053d4.chunk.css.map",
-    "static/js/2.4e111309.chunk.js.LICENSE.txt": "/pet-list-app/static/js/2.4e111309.chunk.js.LICENSE.txt"
+    "static/css/main.500ee7eb.chunk.css.map": "/pet-list-app/static/css/main.500ee7eb.chunk.css.map",
+    "static/js/2.49921775.chunk.js.LICENSE.txt": "/pet-list-app/static/js/2.49921775.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0b018c10.js",
     "static/css/2.4be38407.chunk.css",
-    "static/js/2.4e111309.chunk.js",
-    "static/css/main.f93053d4.chunk.css",
-    "static/js/main.0c73ee9d.chunk.js"
+    "static/js/2.49921775.chunk.js",
+    "static/css/main.500ee7eb.chunk.css",
+    "static/js/main.f74fff3e.chunk.js"
   ]
 }
